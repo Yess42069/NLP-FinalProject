@@ -63,7 +63,7 @@ def load_data_imdb(batch_size, num_steps=500):
 def main():
   # Parameters
   device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-  model_name = "robert-base" # Can cahnge to other models of roberta
+  model_name = "roberta-base" # Can cahnge to other models of roberta
   max_len = 512 
   batch_size = 4
   epochs = 4

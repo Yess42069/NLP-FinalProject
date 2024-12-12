@@ -1,0 +1,13 @@
+
+data/aclImdb/imdb.vocab
+data/aclImdb/imdbEr.txt
+data/aclImdb/README
+data/aclImdb/test/labeledBow.feat
+data/aclImdb/test/urls_neg.txt
+data/aclImdb/test/urls_pos.txt
+data/aclImdb/train/labeledBow.feat
+data/aclImdb/train/unsupBow.feat
+data/aclImdb/train/urls_neg.txt
+data/aclImdb/train/urls_pos.txt
+data/aclImdb/train/urls_unsup.txt
+data/aclImdb_v1.tar.gz
