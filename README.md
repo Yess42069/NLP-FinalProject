@@ -4,7 +4,7 @@ Model suggestions for q4: Bert, Roberta (Twitter sentiment fine-tuned one)
 
 # How to run
 ### The notebook to refer to is lora-finetune.ipynb/lora-finetune.ipynb 
-### To get the trained weights "upload_nlp" 
+### To get the trained weights refer to "upload_nlp" folder
 
 ## Method 1 (Recommended): Using Kaggle 
 Steps:
