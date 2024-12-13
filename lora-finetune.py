@@ -300,4 +300,5 @@ print(report)
 
 
 
-
+df["predicted_labels"] = all_predictions
+df.to_csv("kaggle/working/lora_finetune_predictions.csv")
